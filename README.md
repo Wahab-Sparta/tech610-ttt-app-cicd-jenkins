@@ -9,3 +9,6 @@ Added line to test without merge function
 Added line to test pre-build merge + git publisher push (without merge result)
 
 Added line to test pre-build merge + git publisher push and merge results
+
+Added line to test a manual merge
+
