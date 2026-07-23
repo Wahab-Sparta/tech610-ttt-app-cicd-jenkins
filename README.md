@@ -12,3 +12,5 @@ Added line to test pre-build merge + git publisher push and merge results
 
 Added line to test a manual merge
 
+Added line to test a 2nd manual merge
+
