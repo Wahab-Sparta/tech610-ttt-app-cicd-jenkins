@@ -3,3 +3,5 @@
 Testing no merge commit 1
 
 Testing no merge commit 2
+
+Testing no merge commit 3
